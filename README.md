@@ -19,7 +19,7 @@ Una aplicación web moderna para gestionar todas tus suscripciones digitales en 
 
 ## 📝 Descripción
 
-PixelHub es una aplicación web completa diseñada para ayudarte a gestionar todas tus suscripciones digitales de manera eficiente. Desarrollada como parte de una prueba técnica, esta aplicación demuestra competencias sólidas en desarrollo front-end moderno.
+Suscribia es una aplicación web completa diseñada para ayudarte a gestionar todas tus suscripciones digitales de manera eficiente. Desarrollada como parte de una prueba técnica, esta aplicación demuestra competencias sólidas en desarrollo front-end moderno.
 
 ### ✨ Características Principales
 
