@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@suscribia.com",
+      "password": "admin123",
+      "name": "Admin User",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "email": "user@example.com",
+      "password": "user123",
+      "name": "Test User",
+      "createdAt": "2024-01-02T00:00:00.000Z"
+    }
+  ],
+  "subscriptions": [
+    {
+      "id": "2",
+      "userId": 1,
+      "serviceName": "Spotify Premium",
+      "cost": 9.99,
+      "category": "Música",
+      "renewalDate": "2024-07-20",
+      "createdAt": "2024-02-01T00:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "userId": 1,
+      "serviceName": "Disney+",
+      "cost": 7.99,
+      "category": "Entretenimiento",
+      "renewalDate": "2024-07-25",
+      "createdAt": "2024-02-15T00:00:00.000Z"
+    },
+    {
+      "id": "fead",
+      "serviceName": "Spotify",
+      "cost": 30.55,
+      "category": "Música",
+      "renewalDate": "2025-06-13",
+      "userId": "1",
+      "createdAt": "2025-06-09T03:35:23.587Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Entretenimiento"
+    },
+    {
+      "id": "2",
+      "name": "Música"
+    },
+    {
+      "id": "3",
+      "name": "Productividad"
+    },
+    {
+      "id": "4",
+      "name": "Diseño"
+    },
+    {
+      "id": "5",
+      "name": "Desarrollo"
+    },
+    {
+      "id": "6",
+      "name": "Fitness"
+    },
+    {
+      "id": "7",
+      "name": "Educación"
+    },
+    {
+      "id": "8",
+      "name": "Gaming"
+    },
+    {
+      "id": "9",
+      "name": "Noticias"
+    },
+    {
+      "id": "10",
+      "name": "Otros"
+    }
+  ]
+}
